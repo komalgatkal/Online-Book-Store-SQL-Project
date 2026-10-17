@@ -32,7 +32,5 @@ Online-Book-Store-SQL/
 └── README.md
 ```
 
-*Adjust the file names and folders above to match your repository.*
-
 ## Key SQL Concepts
 `SELECT`, `WHERE`, `ORDER BY`, `GROUP BY`, `HAVING`, aggregate functions, `JOIN`, `LEFT JOIN`, and subqueries.
